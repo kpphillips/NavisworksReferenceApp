@@ -43,13 +43,7 @@
   //
     [Flurry setCrashReportingEnabled:YES];
     //note: iOS only allows one crash reporting tool per app; if using another, set to: NO
- //  old hosted version not used [Flurry startSession:@"D7ZVKRYXS2CK5XZWMPWP"];
-    
-    //free version API used
-  
-  // old 5.0 version for iPad only  [Flurry startSession:@"V9HTH9T9BPG4MFS3DGP9"];
-
-    [Flurry startSession:@"YPZ93SVJ6BDDF3SJWTX2"];
+ 
     
     //your code
 //    SWRevealViewController *mainRevealController = [[SWRevealViewController alloc]
