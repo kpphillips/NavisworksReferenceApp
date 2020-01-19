@@ -166,7 +166,6 @@ static CGFloat textViewBottomPadding = 12;
         if (success) {
             self.products = products;
             
-
             
             SKProduct *product = self.products[0];
             
@@ -306,7 +305,6 @@ static CGFloat textViewBottomPadding = 12;
     }];
 }
 */
-
 
 
 -(IBAction)restoreButtonPressed:(id)sender;{

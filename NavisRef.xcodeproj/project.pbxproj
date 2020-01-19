@@ -1113,11 +1113,11 @@
 			path = "16 Timeliner";
 			sourceTree = "<group>";
 		};
-		0D8A568318C40793006A1D26 /* ***NavisRef.Essentials1.1_wip_SW2.0*** */ = {
+		0D8A568318C40793006A1D26 /* ***NavisRef.Essentials1.3_wip_SW2.0*** */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			name = "***NavisRef.Essentials1.1_wip_SW2.0***";
+			name = "***NavisRef.Essentials1.3_wip_SW2.0***";
 			sourceTree = "<group>";
 		};
 		0D9CB86A17E3717100BC1E00 /* 01 UI */ = {
@@ -1294,7 +1294,7 @@
 		0DEB797617B9F4CF0043CBA0 = {
 			isa = PBXGroup;
 			children = (
-				0D8A568318C40793006A1D26 /* ***NavisRef.Essentials1.1_wip_SW2.0*** */,
+				0D8A568318C40793006A1D26 /* ***NavisRef.Essentials1.3_wip_SW2.0*** */,
 				0DDFE1C518D93BBA00FDB019 /* App Images */,
 				0DEB798B17B9F4CF0043CBA0 /* NavisRef */,
 				0DEB798417B9F4CF0043CBA0 /* Frameworks */,
@@ -1454,6 +1454,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 0DEB797617B9F4CF0043CBA0;
@@ -1889,7 +1890,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "NavisRef/NavisRef-Prefix.pch";
 				INFOPLIST_FILE = "NavisRef/NavisRef-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/NavisRef/Flurry",
@@ -1913,7 +1914,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "NavisRef/NavisRef-Prefix.pch";
 				INFOPLIST_FILE = "NavisRef/NavisRef-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/NavisRef/Flurry",

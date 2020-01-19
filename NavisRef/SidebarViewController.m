@@ -158,15 +158,14 @@
         
     } else {
         
-        //return [self.menuItems count];
+        return [self.menuItems count];
 
-        return 6;
+        //return 6;
 
     }
     
     //return [self.menuItems count];
    // return 6;
-
 
 }
 
